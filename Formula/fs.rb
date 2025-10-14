@@ -1,8 +1,8 @@
 class Fs < Formula
   desc "Tyler File Search"
   homepage "https://github.com/ki-aura/fs"
-  url "https://github.com/ki-aura/fs/archive/refs/tags/v2.4.0.tar.gz"
-  sha256 "9a505d2506768304f8aedd8f1e10c119b049474e70da11fa172d2fb887b8fe3f"
+  url "https://github.com/ki-aura/fs/archive/refs/tags/v2.5.0.tar.gz"
+  sha256 "6604d3ae908d216ca8808c7a17fcab7646f7cd825605048d32ec3686e1030d1e"
   license "MIT"
 
   def install
