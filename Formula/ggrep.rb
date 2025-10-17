@@ -1,4 +1,4 @@
-class GGrep < Formula
+class Ggrep < Formula
   desc "Tyler File Search"
   homepage "https://github.com/ki-aura/ggrep"
   url "https://github.com/ki-aura/ggrep/archive/refs/tags/v2.5.0.tar.gz"
